@@ -1,16 +1,9 @@
 👋 Ahmed Choukri — Data Engineer
-<div align="center">
-https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/LangChain-0.4-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white
-https://img.shields.io/badge/Mistral_AI-orange?style=for-the-badge&logo=ai&logoColor=white
-https://img.shields.io/badge/FAISS-1.13-blue?style=for-the-badge
-https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
 
 Spécialisation : NLP · Bases de données vectorielles · Systèmes RAG · Data Engineering
 
 Data Engineer en alternance — Passionné par les LLM et l'IA appliquée
 
-</div>
 Projet 
 🎭 Puls-Events — Système RAG pour la Recommandation d'Événements Culturels
 Assistant culturel intelligent basé sur un système RAG (Retrieval-Augmented Generation) combinant Mistral AI, FAISS et LangChain pour recommander des événements culturels en Hauts-de-France.
@@ -109,15 +102,5 @@ https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=g
 Formation	Établissement	Année
 Data Engineer (alternance)	OpenClassrooms	2025-2026
 Spécialisation NLP & Bases Vectorielles	Formation continue	2026
-📫 Contact
-<div align="center">
-https://img.shields.io/badge/LinkedIn-Ahmed_Choukri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-ahmed--choukri-181717?style=for-the-badge&logo=github&logoColor=white
 
-Disponible pour des missions en NLP, RAG et Data Engineering
 
-</div>
-<div align="center">
-"Transformer la donnée brute en expérience utilisateur intelligente."
-
-</div>
