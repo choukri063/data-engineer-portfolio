@@ -167,11 +167,9 @@ Streamlit (déploiement)                 █████████████
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=choukri063&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choukri063&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choukri063&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choukri063&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 ---
