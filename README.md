@@ -187,14 +187,15 @@ Streamlit (déploiement)                 █████████████
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Choukri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-choukri)
-[![GitHub](https://img.shields.io/badge/GitHub-ahmed--choukri-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-choukri)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.choukri@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Choukri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-choukri-3b163a99/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-choukri063-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choukri063/data-engineer-portfolio)
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedchoukri3@gmail.com)
 
 *Disponible pour des missions freelance en NLP, RAG et Data Engineering*
 
 </div>
-
 ---
 
 <div align="center">
