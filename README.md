@@ -198,7 +198,5 @@ Streamlit (déploiement)                 █████████████
 <div align="center">
 
 *"Transformer la donnée brute en expérience utilisateur intelligente."*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmed-choukri&color=E94560&style=flat-square)
-
 </div>
