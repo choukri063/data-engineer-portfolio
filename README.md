@@ -141,7 +141,7 @@ Streamlit (déploiement)                 █████████████
 - LangChain + Mistral AI + FAISS + Pytest
 - **3 879 événements**, **2 secondes** de réponse, **8/8 tests**
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/ahmed-choukri/puls-events-rag)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/choukri063/puls-events-rag)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-blue?style=flat-square)
@@ -156,7 +156,7 @@ Streamlit (déploiement)                 █████████████
 - Nouvelles fonctionnalités : mémoire conversationnelle, géolocalisation, smolagents, monitoring
 - **16 200€** Build · **95 à 2 220€/mois** OPEX · Planning **12 semaines**
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/ahmed-choukri/puls-events-mvp)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/choukri063/puls-events-mvp)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
@@ -167,8 +167,9 @@ Streamlit (déploiement)                 █████████████
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed-choukri&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-choukri&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choukri063&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choukri063&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
